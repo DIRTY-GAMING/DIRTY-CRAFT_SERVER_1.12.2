@@ -1,0 +1,200 @@
+23:19:34 [INFORMATION] Using standard Java JCE cipher.
+23:19:34 [INFORMATION] Using standard Java compressor.
+23:19:34 [INFORMATION] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:a17d8f8:1634
+23:19:34 [INFORMATION] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+23:19:34 [INFORMATION] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+23:19:34 [INFORMATION] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+23:19:34 [INFORMATION] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+23:19:34 [INFORMATION] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+23:19:34 [INFORMATION] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+23:19:34 [INFORMATION] Attempting to update plugin from null to ModuleVersion(build=1634, git=a17d8f8)
+23:19:34 [INFORMATION] Attempting to Jenkins download module cmd_alert v1634
+23:19:35 [INFORMATION] Download complete
+23:19:35 [INFORMATION] Attempting to update plugin from null to ModuleVersion(build=1634, git=a17d8f8)
+23:19:35 [INFORMATION] Attempting to Jenkins download module cmd_find v1634
+23:19:35 [INFORMATION] Download complete
+23:19:35 [INFORMATION] Attempting to update plugin from null to ModuleVersion(build=1634, git=a17d8f8)
+23:19:35 [INFORMATION] Attempting to Jenkins download module cmd_list v1634
+23:19:36 [INFORMATION] Download complete
+23:19:36 [INFORMATION] Attempting to update plugin from null to ModuleVersion(build=1634, git=a17d8f8)
+23:19:36 [INFORMATION] Attempting to Jenkins download module cmd_send v1634
+23:19:36 [INFORMATION] Download complete
+23:19:36 [INFORMATION] Attempting to update plugin from null to ModuleVersion(build=1634, git=a17d8f8)
+23:19:36 [INFORMATION] Attempting to Jenkins download module cmd_server v1634
+23:19:36 [INFORMATION] Download complete
+23:19:36 [INFORMATION] Attempting to update plugin from null to ModuleVersion(build=1634, git=a17d8f8)
+23:19:36 [INFORMATION] Attempting to Jenkins download module reconnect_yaml v1634
+23:19:36 [INFORMATION] Download complete
+23:19:36 [INFORMATION] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:19:36 [INFORMATION] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:19:36 [INFORMATION] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:19:36 [INFORMATION] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:19:36 [INFORMATION] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:19:36 [INFORMATION] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:19:37 [WARNUNG] Forced host server pvp is not defined
+23:19:37 [INFORMATION] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:19:37 [INFORMATION] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:19:37 [INFORMATION] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:19:37 [INFORMATION] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:19:37 [INFORMATION] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:19:37 [INFORMATION] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:19:37 [INFORMATION] Listening on /0.0.0.0:25577
+23:43:38 [INFORMATION] Using standard Java JCE cipher.
+23:43:38 [INFORMATION] Using standard Java compressor.
+23:43:38 [INFORMATION] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:a17d8f8:1634
+23:43:38 [INFORMATION] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+23:43:38 [INFORMATION] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+23:43:38 [INFORMATION] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+23:43:38 [INFORMATION] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+23:43:38 [INFORMATION] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+23:43:38 [INFORMATION] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+23:43:38 [INFORMATION] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:43:41 [INFORMATION] Loaded plugin LuckPerms version 5.4.10 by Luck
+23:43:41 [INFORMATION] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:43:41 [INFORMATION] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:43:41 [INFORMATION] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:43:41 [INFORMATION] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:43:41 [INFORMATION] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:43:41 [WARNUNG] Forced host server pvp is not defined
+23:43:41 [WARNUNG] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+23:43:41 [INFORMATION] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:43:41 [INFORMATION] §b       §3 __    
+23:43:41 [INFORMATION] §b  |    §3|__)   §2LuckPerms§r §bv5.4.10
+23:43:41 [INFORMATION] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+23:43:41 [INFORMATION] 
+23:43:41 [INFORMATION] [LuckPerms] Loading configuration...
+23:43:42 [INFORMATION] [LuckPerms] Loading storage provider... [H2]
+23:43:42 [INFORMATION] [LuckPerms] Loading internal permission managers...
+23:43:42 [INFORMATION] [LuckPerms] Performing initial data load...
+23:43:42 [INFORMATION] [LuckPerms] Successfully enabled. (took 1121ms)
+23:43:42 [INFORMATION] Enabled plugin LuckPerms version 5.4.10 by Luck
+23:43:42 [INFORMATION] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:43:42 [INFORMATION] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:43:42 [INFORMATION] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:43:42 [INFORMATION] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:43:42 [INFORMATION] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:43:42 [INFORMATION] Listening on /0.0.0.0:25580
+23:50:00 [INFORMATION] Using standard Java JCE cipher.
+23:50:00 [INFORMATION] Using standard Java compressor.
+23:50:00 [INFORMATION] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:a17d8f8:1634
+23:50:00 [INFORMATION] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+23:50:00 [INFORMATION] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+23:50:00 [INFORMATION] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+23:50:00 [INFORMATION] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+23:50:00 [INFORMATION] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+23:50:00 [INFORMATION] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+23:50:00 [INFORMATION] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:50:00 [INFORMATION] Loaded plugin LuckPerms version 5.4.10 by Luck
+23:50:00 [INFORMATION] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:50:00 [INFORMATION] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:50:00 [INFORMATION] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:50:00 [INFORMATION] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:50:00 [INFORMATION] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:50:00 [WARNUNG] Forced host server pvp is not defined
+23:50:00 [WARNUNG] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+23:50:00 [INFORMATION] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:50:00 [INFORMATION] §b       §3 __    
+23:50:00 [INFORMATION] §b  |    §3|__)   §2LuckPerms§r §bv5.4.10
+23:50:00 [INFORMATION] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+23:50:00 [INFORMATION] 
+23:50:00 [INFORMATION] [LuckPerms] Loading configuration...
+23:50:01 [INFORMATION] [LuckPerms] Loading storage provider... [H2]
+23:50:01 [INFORMATION] [LuckPerms] Loading internal permission managers...
+23:50:01 [INFORMATION] [LuckPerms] Performing initial data load...
+23:50:01 [INFORMATION] [LuckPerms] Successfully enabled. (took 1282ms)
+23:50:01 [INFORMATION] Enabled plugin LuckPerms version 5.4.10 by Luck
+23:50:01 [INFORMATION] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:50:01 [INFORMATION] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:50:01 [INFORMATION] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:50:01 [INFORMATION] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:50:01 [INFORMATION] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:50:02 [INFORMATION] Listening on /0.0.0.0:25580
+23:52:50 [INFORMATION] Using standard Java JCE cipher.
+23:52:50 [INFORMATION] Using standard Java compressor.
+23:52:50 [INFORMATION] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:a17d8f8:1634
+23:52:50 [INFORMATION] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+23:52:50 [INFORMATION] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+23:52:50 [INFORMATION] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+23:52:50 [INFORMATION] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+23:52:50 [INFORMATION] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+23:52:50 [INFORMATION] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+23:52:50 [INFORMATION] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:52:50 [INFORMATION] Loaded plugin LuckPerms version 5.4.10 by Luck
+23:52:50 [INFORMATION] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:52:50 [INFORMATION] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:52:50 [INFORMATION] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:52:50 [INFORMATION] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:52:50 [INFORMATION] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:52:50 [WARNUNG] Forced host server pvp is not defined
+23:52:50 [WARNUNG] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+23:52:50 [INFORMATION] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:52:51 [INFORMATION] §b       §3 __    
+23:52:51 [INFORMATION] §b  |    §3|__)   §2LuckPerms§r §bv5.4.10
+23:52:51 [INFORMATION] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+23:52:51 [INFORMATION] 
+23:52:51 [INFORMATION] [LuckPerms] Loading configuration...
+23:52:51 [INFORMATION] [LuckPerms] Loading storage provider... [H2]
+23:52:52 [INFORMATION] [LuckPerms] Loading internal permission managers...
+23:52:52 [INFORMATION] [LuckPerms] Performing initial data load...
+23:52:52 [INFORMATION] [LuckPerms] Successfully enabled. (took 1294ms)
+23:52:52 [INFORMATION] Enabled plugin LuckPerms version 5.4.10 by Luck
+23:52:52 [INFORMATION] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:52:52 [INFORMATION] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:52:52 [INFORMATION] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:52:52 [INFORMATION] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:52:52 [INFORMATION] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+23:52:52 [INFORMATION] Listening on /0.0.0.0:25580
+00:11:08 [INFORMATION] Using standard Java JCE cipher.
+00:11:08 [INFORMATION] Using standard Java compressor.
+00:11:08 [INFORMATION] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:a17d8f8:1634
+00:11:08 [INFORMATION] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+00:11:08 [INFORMATION] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+00:11:08 [INFORMATION] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+00:11:08 [INFORMATION] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+00:11:08 [INFORMATION] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+00:11:08 [INFORMATION] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+00:11:08 [INFORMATION] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+00:11:08 [INFORMATION] Loaded plugin LuckPerms version 5.4.10 by Luck
+00:11:08 [INFORMATION] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+00:11:08 [INFORMATION] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+00:11:08 [INFORMATION] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+00:11:08 [INFORMATION] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+00:11:08 [INFORMATION] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+00:11:08 [WARNUNG] Forced host server pvp is not defined
+00:11:08 [WARNUNG] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+00:11:08 [INFORMATION] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+00:11:08 [INFORMATION] §b       §3 __    
+00:11:08 [INFORMATION] §b  |    §3|__)   §2LuckPerms§r §bv5.4.10
+00:11:08 [INFORMATION] §b  |___ §3|      §8Running on BungeeCord - BungeeCord
+00:11:08 [INFORMATION] 
+00:11:08 [INFORMATION] [LuckPerms] Loading configuration...
+00:11:09 [INFORMATION] [LuckPerms] Loading storage provider... [H2]
+00:11:09 [INFORMATION] [LuckPerms] Loading internal permission managers...
+00:11:09 [INFORMATION] [LuckPerms] Performing initial data load...
+00:11:09 [INFORMATION] [LuckPerms] Successfully enabled. (took 1274ms)
+00:11:09 [INFORMATION] Enabled plugin LuckPerms version 5.4.10 by Luck
+00:11:09 [INFORMATION] Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+00:11:09 [INFORMATION] Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+00:11:09 [INFORMATION] Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+00:11:09 [INFORMATION] Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+00:11:09 [INFORMATION] Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+00:11:09 [INFORMATION] Listening on /0.0.0.0:25580
+21:48:18 [INFORMATION] Using standard Java JCE cipher.
+21:48:18 [INFORMATION] Using standard Java compressor.
+21:48:18 [INFORMATION] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.18-R0.1-SNAPSHOT:a17d8f8:1634
+21:48:19 [INFORMATION] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+21:48:19 [INFORMATION] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+21:48:19 [INFORMATION] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+21:48:19 [INFORMATION] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+21:48:19 [INFORMATION] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+21:48:19 [INFORMATION] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:48:19 [INFORMATION] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+21:48:19 [INFORMATION] Loaded plugin LuckPerms version 5.4.10 by Luck
+21:48:19 [INFORMATION] Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+21:48:19 [INFORMATION] Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+21:48:19 [INFORMATION] Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+21:48:19 [INFORMATION] Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+21:48:19 [INFORMATION] Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
+21:48:19 [WARNUNG] Forced host server pvp is not defined
+21:48:19 [WARNUNG] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+21:48:19 [INFORMATION] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:a17d8f8:1634 by SpigotMC
